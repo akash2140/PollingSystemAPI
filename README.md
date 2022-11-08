@@ -1,2 +1,1 @@
-# PollingSystemAPI
-This is polling system API where anyone can create questions with options and also add votes to it.
+In this project i have created an api in which the user can add,remove,view questions and add options to that questions and in options you can add votes to it.
